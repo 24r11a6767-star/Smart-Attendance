@@ -1,0 +1,5 @@
+{
+  "name": "Smart Attendance Pro",
+  "description": "A Bluetooth-based automated attendance system for smart classrooms with timetable management and real-time analytics.",
+  "requestFramePermissions": ["bluetooth"]
+}
